@@ -6972,8 +6972,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: This application simulates different scheduling algorithms for single core
-    CPU RTOS applications. Use the Fullscreen button at bottom right for best quality.
+  m_text: 'This application simulates different scheduling algorithms for single
+    core CPU RTOS applications. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
   m_sharedMaterial: {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
